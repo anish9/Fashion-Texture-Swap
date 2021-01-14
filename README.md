@@ -1,2 +1,2 @@
 # Fashion-Transfer
-a study and experiment on garment texture transfers with GANS, solely using Compact Encoder and Decoders
+NOTE : Experiments and studies solely for research purpose.
