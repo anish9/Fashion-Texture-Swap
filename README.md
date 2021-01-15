@@ -1,5 +1,5 @@
 # Fashion-Texture-Transfer (FTT)
-NOTE : Experiments and studies solely for research purpose, experimental codes will be released soon.
+NOTE : Experiments and studies solely for research purpose, experimental pipeline codes will be released soon.
 
 <img align="left" width="390" height="260" src="https://github.com/anish9/Fashion-Transfer/blob/main/viz/res01.png">
 <img align="right" width="390" height="260" src="https://github.com/anish9/Fashion-Transfer/blob/main/viz/res02.png">
