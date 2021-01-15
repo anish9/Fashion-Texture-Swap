@@ -1,4 +1,4 @@
-# Fashion-Transfer
+# Fashion-Texture-Transfer (FTT)
 NOTE : Experiments and studies solely for research purpose.
 
 ![exp2](https://github.com/anish9/Fashion-Transfer/blob/main/viz/res1.png)
