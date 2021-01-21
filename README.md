@@ -1,4 +1,4 @@
-# Fashion-Texture-Transfer (FTT)
+# Fashion-Texture-Swap (FTS)
 NOTE : Project is built solely for research purpose, experimental pipeline codes will be released soon.
 
 <img align="left" width="390" height="260" src="https://github.com/anish9/Fashion-Transfer/blob/main/viz/res01.png">
